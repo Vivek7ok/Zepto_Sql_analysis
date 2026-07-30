@@ -6,7 +6,7 @@ A SQL-based exploratory data analysis of the Zepto quick-commerce product catalo
 
 ## 📊 Dataset Overview
 
-| Field | Type | Description |
+| Field | Type | Description | 
 |---|---|---|
 | `category` | VARCHAR | Product category (14 distinct values) |
 | `name` | VARCHAR | Product display name |
